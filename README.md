@@ -58,14 +58,3 @@ Eng/ Islam Atef
 
 ## Project Files
 **Google Drive (all project files):** [Open the project folder](https://drive.google.com/drive/folders/11TAnH4fV8Wn_y9cJhACtkIaLolthd0aL?usp=sharing)
-
-| Item |
-|---|
-| Dataset (sample) and CSV files |
-| Database scripts and ERD |
-| Data cleaning and analysis notebooks |
-| Forecasting notebooks |
-| Tableau dashboard |
-| Power BI dashboard |
-| Final report |
-| Final presentation |

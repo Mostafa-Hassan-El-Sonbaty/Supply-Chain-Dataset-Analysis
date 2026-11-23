@@ -1,0 +1,7 @@
+"order_status","total_orders","percentage"
+"delivered",7746,96.80
+"shipped",104,1.30
+"unavailable",56,0.70
+"canceled",47,0.59
+"processing",29,0.36
+"invoiced",20,0.25

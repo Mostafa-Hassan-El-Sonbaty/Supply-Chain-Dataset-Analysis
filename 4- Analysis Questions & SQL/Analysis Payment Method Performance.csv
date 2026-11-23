@@ -1,0 +1,5 @@
+"payment_type","payment_records","unique_orders","total_payment_value","payment_share_percentage","avg_payment_value","avg_installments"
+"credit_card",6162,6139,998943.13,79.14,162.11,3.53
+"boleto",1609,1609,217873.34,17.26,135.41,1.00
+"voucher",514,331,30170.16,2.39,58.70,1.00
+"debit_card",121,121,15220.45,1.21,125.79,1.00

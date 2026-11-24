@@ -1,0 +1,5 @@
+model,MAE,RMSE,R2,mean error
+Baseline: train median,5.12,6.88,-0.159,2.54
+Baseline: promised days x 0.48,4.47,6.61,-0.072,1.49
+Ridge (log of days),4.43,6.4,-0.005,2.45
+Gradient boosting (MAE loss),3.8,5.88,0.154,1.21

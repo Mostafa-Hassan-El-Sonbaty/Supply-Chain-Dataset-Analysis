@@ -1,0 +1,2 @@
+model,ROC-AUC,PR-AUC,precision (threshold 0.5),recall (threshold 0.5),F1 (threshold 0.5),precision top 10%,recall top 10%,late rate in the test set
+Logistic regression,0.713,0.108,0.099,0.828,0.177,0.104,0.184,0.056
